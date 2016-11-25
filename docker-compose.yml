@@ -1,0 +1,4 @@
+postgres:
+    image: postgres:9.5
+    volumes:
+      - postgresql-experiment:/var/lib/postgresql/data
