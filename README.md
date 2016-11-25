@@ -1,2 +1,2 @@
 # postgresql-docker-experiment
-Learing and diving in PostgreSQL + Docker
+Learning and diving in PostgreSQL + Docker
